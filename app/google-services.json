@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100588315253",
+    "project_id": "coach-huddle-b53c0",
+    "storage_bucket": "coach-huddle-b53c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100588315253:android:a7ce631fa98537fe3e8e3c",
+        "android_client_info": {
+          "package_name": "com.apex.coachhuddle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNB9s-ygt-QAb23-JYls6F2hDCI9SmzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
